@@ -1,7 +1,7 @@
 const path = require('path');
 const webpack = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-var OpenBrowserPlugin = require('open-browser-webpack-plugin');
+const OpenBrowserPlugin = require('open-browser-webpack-plugin');
 
 const babelLoaderConfiguration = {
   test: /\.js$/,
