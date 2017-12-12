@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "babel-jest": "21.2.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-react-native": "4.0.0",
     "jest": "21.2.1",
     "open-browser-webpack-plugin": "0.0.5",

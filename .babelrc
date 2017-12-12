@@ -1,6 +1,7 @@
 {
   "plugins": [
-    "react-native-web/babel"
+    "react-native-web/babel", 
+    "transform-runtime"
   ],
   "presets": [
     "react-native"
